@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.codexmeet",
+            "sha256_cert_fingerprints": [
+                "34:17:9B:92:B4:8F:03:F7:9C:9A:2C:9F:D2:15:8F:A0:65:01:5D:72:E1:E8:C3:65:1F:AD:14:A5:8B:E9:FD:0F"
+            ]
+        }
+    }
+]
